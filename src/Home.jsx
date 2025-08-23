@@ -7,9 +7,9 @@ export default function Home() {
 
   return (
     <div className="home-container">
-      <img src="/11613311.png" alt="My Profile" className="profile-pic" />
+      <img src="/profile.png" alt="My Profile" className="profile-pic" />
       <h1>Or kya haal chal👋</h1>
-      <p>Haan ji toh bat karne ke liye click kare</p>
+      <p>Haan ji bat karni hai toh click kariye</p>
       <button className="chat-button" onClick={() => navigate("/chat")}>
         💬 Chat with me
       </button>
