@@ -7,11 +7,7 @@ export default function Home() {
 
   return (
     <div className="home-container">
-      <img
-        src="./src/assets/11613311.png"
-        alt="My Profile"
-        className="profile-pic"
-      />
+      <img src="/11613311.png" alt="My Profile" className="profile-pic" />
       <h1>Or kya haal chal👋</h1>
       <p>Haan ji toh bat karne ke liye click kare</p>
       <button className="chat-button" onClick={() => navigate("/chat")}>
