@@ -9,7 +9,7 @@
 
 /* Header */
 .chat-header {
-  background: red;
+  background: black;
   color: white;
   padding: 16px;
   font-size: 20px;
@@ -94,7 +94,7 @@
 .chat-input-box button {
   margin-left: 10px;
   padding: 12px 20px;
-  background: red;
+  background: #228b22;
   color: white;
   border: none;
   border-radius: 20px;

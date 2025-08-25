@@ -1,3 +1,10 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
 .home-container {
   height: 100vh; /* Full screen */
   display: flex;
@@ -22,13 +29,25 @@ p {
 
 .chat-button {
   padding: 12px 24px;
-  background-color: red;
+  background-color: #90ee90;
   color: white;
   border: none;
   border-radius: 8px;
   font-size: 16px;
   cursor: pointer;
 }
+
+/* .chat-button-piyush {
+  padding: 12px 24px;
+  background-color: red;
+  color: white;
+  border: none;
+  position: relative;
+  left: 2rem;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+} */
 
 .chat-button:hover {
   background-color: #0056b3;
