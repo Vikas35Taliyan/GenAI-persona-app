@@ -6,6 +6,7 @@ An AI-powered **Persona Resume Builder** built with **Vite**, **React**, and int
 This project helps you generate smart, customizable AI-driven resumes and persona profiles.  
 
 ---
+Live: https://gen-ai-persona-app-t264.vercel.app/ 
 
 📸 Screenshots
 <img width="1056" height="662" alt="image" src="https://github.com/user-attachments/assets/7c90964a-8d03-4c14-950f-103e1a42320f" />
